@@ -1,2 +1,2 @@
-# cpp-gu-login-forms
+# cpp-gui-login-forms
 Modern login using winforms with Cpp
