@@ -16,11 +16,11 @@ kullanıcı adı: admin,
 
 # Resimler
 
-*GENEL GÖRÜNÜM*
+# GENEL GÖRÜNÜM
 
 ![görünüm](githubs.png)
 
-*Bildirimler*
+# Bildirimler
 
 ![bildirimler](githubs2.png)
 
@@ -31,7 +31,7 @@ kullanıcı adı: admin,
 ![bildirimler](Githubs5.png)
 
 
-*Onay*
+# Onay
 
 ![onay](githubs4.png)
 
