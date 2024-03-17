@@ -15,3 +15,15 @@ kullanıcı adı: admin,
 
 
   # Resimler
+
+*GENEL GÖRÜNÜM*
+![görünüm](githubs.png)
+
+*Bildirimler*
+![bildirimler](githubs2.png)
+![bildirimler](githubs3.png)
+![bildirimler](githubs5.png)
+![bildirimler](githubs6.png)
+
+*Onay*
+![onay](githubs4.png)
