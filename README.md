@@ -21,9 +21,12 @@ kullanıcı adı: admin,
 
 *Bildirimler*
 ![bildirimler](githubs2.png)
+
 ![bildirimler](githubs3.png)
+
 ![bildirimler](Githubs5.png)
 
 
 *Onay*
+
 ![onay](githubs4.png)
